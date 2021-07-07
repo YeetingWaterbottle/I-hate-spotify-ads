@@ -1,4 +1,4 @@
-<h1>if Your Spotify Installition is Different From The One in The Code, Please Change The Path. The Program is Still Not Finished.</h1>
+**<h2>if Your Spotify Installition Path is Different From The One in The Code, Please Change The Path. The Program is Still Not Finished.</h2>**
 
 
 I-hate-spotify-ads
