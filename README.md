@@ -1,7 +1,7 @@
 <h1>if Your Spotify Installition is Different From The One in The Code, Please Change The Path. The Program is Still Not Finished.</h1>
 
 
-# I-hate-spotify-ads
+I-hate-spotify-ads
 A simple python program to auto restart spotify when an ad start playing.
 
 
@@ -10,7 +10,7 @@ mininal.py or minimal + no_console.pyw
 
 full.py is just random stuff that i thought was *~~"cool"~~*
 
-<h2>my frist ever python "project" also im not resonsible for anything. dont blame it on me thanks.</h2>
+<h2>my first ever python "project" also im not resonsible for anything. dont blame it on me thanks.</h2>
 
 
 
