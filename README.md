@@ -1,5 +1,5 @@
 **<h2>if Your Spotify Installition Path is Different From The One in The Code, Please Change The Path. The Program is Still Not Finished.</h2>**
-
+<h3>Also the keyboard module is required. pip install keyboard</h3>
 
 I-hate-spotify-ads
 A simple python program to auto restart spotify when an ad start playing.
