@@ -1,3 +1,6 @@
+<h1>if Your Spotify Installition is Different From The One in The Code, Please Change The Path. The Program is Still Not Finished.</h1>
+
+
 # I-hate-spotify-ads
 A simple python program to auto restart spotify when an ad start playing.
 
