@@ -5,7 +5,7 @@ I-hate-spotify-ads
 A simple python program to auto restart spotify when an ad start playing.
 
 
-<h1>Recomened one to download:</h1>
+<h1>Recomened file to download:</h1>
 mininal.py or minimal + no_console.pyw
 
 full.py is just random stuff that i thought was *~~"cool"~~*
