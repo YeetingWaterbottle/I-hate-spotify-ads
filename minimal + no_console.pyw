@@ -25,6 +25,7 @@ while True:
         time.sleep(1)
         os.popen(
             "powershell Start-Process {}\Spotify\Spotify.exe -WindowStyle Minimized".format(os.getenv('appdata')))
+        # !IMPORTANT! Change This Value if The Program Dont Auto Play The Music, it is the Delay Between The Launch of Spotify And When The Program Press The Media Play Pause Key. !IMPORTANT!
         time.sleep(1)
 
         # https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-keybd_event
