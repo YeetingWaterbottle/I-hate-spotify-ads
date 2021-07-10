@@ -11,8 +11,6 @@ dll_user32 = ctypes.WinDLL("user32.dll")
 
 while True:
     # poop code below
-    check_if_running = os.popen(
-        "tasklist /NH /FO:CSV /FI \"IMAGENAME eq Spotify.exe\"").read()
     check_if_ad_exist = os.popen(
         "tasklist /NH /FO:CSV /FI \"WINDOWTITLE eq Advertisement\"").read()
     check_if_another_ad_exist = os.popen(
